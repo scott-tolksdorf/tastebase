@@ -23,8 +23,7 @@ testing the auto-deply
 
 - look at github actions to automatically compile the index html
 - Add a page to display compiling errors
-
-
-### Deployments
-- Deploy pico-xo
+- Clean up components. 
+- toys
+- 
 
